@@ -11,6 +11,7 @@ I'm curious about things and enjoy learning. I love to explore new domains and t
 ## Showcase
 <p align="center">
   <a href="https://atharva007-cmd.github.io/three-fiber-intro/"><img width="274" src="https://github.com/atharva007-cmd/three-fiber-intro/blob/master/three-dimension-three-cubes.gif" /></a>
+  <a href="https://atharva007-cmd.github.io/dashboard/"><img width="274" src="https://github.com/atharva007-cmd/dashboard/blob/gh-pages/dashboard.gif" /></a>
 </p>
 <p align="middle">
   <i>These demos are real, you can click them! They will take you to the respective projects.</i>
