@@ -23,8 +23,8 @@ I'm detail-oriented and commited to projects I work on. I like problem-solving a
 <br><br>
 
 ## Get in touch
-Drop an <a href="mailto:atharvamarathe007@gmail.com">email</a><br>
-Connect with <a href="https://www.linkedin.com/in/atharva-marathe-982301171/">me</a> on LinkedIn
+Drop an <a href="mailto:atharvamarathe@outlook.com">email</a><br>
+Connect with <a href="https://www.linkedin.com/in/atharva-marathe/">me</a> on LinkedIn
 <br><br>
 
-![My stats](https://github-readme-stats.vercel.app/api?username=atharva007-cmd&count_private=true&show_icons=true)
+![My stats](https://github-readme-stats.vercel.app/api?username=marathe-atharva&count_private=true&show_icons=true)
